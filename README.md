@@ -25,7 +25,4 @@ par." ou "É ímpar.") em um parágrafo na página.
 Enunciado: Crie um campo de texto para o usuário digitar seu nome. Ao clicar em um
 botão, o programa deve converter o nome digitado para letras maiúsculas e exibir o nome
 em caixa alta em um parágrafo na página.
-Elementos HTML necessários:
-• Um campo de entrada (<input type="text">).
-• Um botão para acionar a conversão.
-• Um parágrafo (<p>) para exibir o nome em maiúsculas.
+
