@@ -1,4 +1,5 @@
 está é uma lista simples, utilizando o básico do js para resolver questões da matéria de desenvolvimento web 1, as questões foram: 
+  
   Exercício 1: Soma Simples
 Enunciado:
 Crie um programa que solicite ao usuário dois números. Em seguida, exiba uma
